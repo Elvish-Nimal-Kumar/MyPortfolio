@@ -1,0 +1,97 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 8061 >>
+stream
+BT /F2 18.5 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 807.89 Tm (Elvish Nimal Kumar A) Tj ET
+BT /F2 10.2 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 788.39 Tm (Data Analyst - Data Science - AI/ML Engineer) Tj ET
+BT /F1 8.2 Tf 0.280 0.330 0.410 rg 1 0 0 1 38.00 775.39 Tm (Tamil Nadu, India | a.elvishnimalkumar@gmail.com | linkedin.com/in/elvish-nimal-kumar | github.com/Elvish-Nimal-Kumar) Tj ET
+0.050 0.580 0.530 RG 1.30 w 38.00 768.39 m 557.28 768.39 l S
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 758.39 Tm (SUMMARY) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 753.89 m 557.28 753.89 l S
+BT /F1 8.8 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 744.89 Tm (Computer Science and Engineering graduate from B.S. Abdur Rahman Crescent Institute of Science and Technology,) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 733.69 Tm (Chennai, focused on data analytics, data science and machine learning. I turn raw data into clear insights and) Tj ET
+BT /F1 8.8 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 722.49 Tm (practical machine learning solutions using Python, SQL, Power BI, Scikit-learn and TensorFlow.) Tj ET
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 708.29 Tm (EDUCATION) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 703.79 m 557.28 703.79 l S
+BT /F2 9.0 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 694.79 Tm (B.Tech, Computer Science and Engineering \(Jul 2022 to May 2026\)  |  CGPA: 7.23) Tj ET
+BT /F1 8.7 Tf 0.280 0.330 0.410 rg 1 0 0 1 38.00 683.39 Tm (B.S. Abdur Rahman Crescent Institute of Science and Technology, Chennai) Tj ET
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 669.39 Tm (EXPERIENCE) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 664.89 m 557.28 664.89 l S
+BT /F2 9.0 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 655.89 Tm (Data Science Intern - GradTwin \(Jun 2026 to Sep 2026\)) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 644.69 Tm (- Performed preprocessing, exploratory analysis and visualization on real-world datasets using Python,) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 633.89 Tm (Pandas, NumPy, Matplotlib and Seaborn.) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 623.09 Tm (- Developed and evaluated machine learning models with Scikit-learn.) Tj ET
+BT /F2 9.0 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 610.79 Tm (Web Development Intern - Qbatzclay \(Jun 2025 to Jul 2025\)) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 599.59 Tm (- Worked with HTML, CSS, JavaScript, MongoDB CRUD operations and Git.) Tj ET
+BT /F2 9.0 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 587.29 Tm (Web Development Intern - Cognifyz Technologies \(Apr 2024 to Jun 2024\)) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 576.09 Tm (- Worked on front-end development and debugging, using Git.) Tj ET
+BT /F2 9.0 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 563.79 Tm (Data Science Intern - Eagle Tech \(Jan 2024 to Mar 2024\)) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 552.59 Tm (- Cleaned, preprocessed and transformed raw datasets using Pandas and NumPy.) Tj ET
+BT /F1 8.6 Tf 0.200 0.250 0.330 rg 1 0 0 1 46.00 541.79 Tm (- Built visualizations to surface trends and presented findings to stakeholders.) Tj ET
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 526.49 Tm (FEATURED PROJECTS) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 521.99 m 557.28 521.99 l S
+BT /F2 8.9 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 512.99 Tm (1. Bank Branch Location Optimization using Spatial Analytics  [Python, MySQL, Power BI, Streamlit]) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 501.79 Tm (Analysed 9,197 branch records through cleaning, exploratory analysis, spatial analysis and feature) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 491.19 Tm (engineering. Added suitability scoring, machine learning and branch recommendations, with Power BI dashboards) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 480.59 Tm (for accessibility, branch density and expansion opportunities.) Tj ET
+BT /F2 8.9 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 468.49 Tm (2. AI Emotion Detection System  [TensorFlow, Keras, OpenCV]) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 457.29 Tm (Built a real-time system that detects faces in webcam video with Haar Cascade classifiers and classifies) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 446.69 Tm (emotions with a deep learning model.) Tj ET
+BT /F2 8.9 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 434.59 Tm (3. Diabetes Prediction Using Machine Learning  [Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn]) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 423.39 Tm (Developed a classification model with preprocessing, exploratory analysis and feature preparation. Evaluated) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 412.79 Tm (it using accuracy, precision, recall, F1-score and a confusion matrix.) Tj ET
+BT /F2 8.9 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 400.69 Tm (4. Diabetes Dataset Analysis  [Python, NumPy, Pandas, Matplotlib, Seaborn]) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 389.49 Tm (Cleaned the data, handled duplicates and visualized age, gender, blood glucose and diabetes distribution to) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 378.89 Tm (identify key patterns.) Tj ET
+BT /F2 8.9 Tf 0.060 0.090 0.160 rg 1 0 0 1 38.00 366.79 Tm (5. Smart Automated Irrigation with Crop Recommendation  [Final-year project | IoT sensors, cloud]) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 355.59 Tm (A smart irrigation and crop recommendation system, presented at an international engineering conference in) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 44.00 344.99 Tm (2026.) Tj ET
+BT /F1 8.4 Tf 0.250 0.300 0.380 rg 1 0 0 1 38.00 332.89 Tm (Other Web Projects: Secure Digital Voting System Using Aadhaar \(Flask, MongoDB Atlas, HTML, CSS, JavaScript,) Tj ET
+BT /F1 8.4 Tf 0.250 0.300 0.380 rg 1 0 0 1 38.00 322.29 Tm (Bootstrap\) | Men's Fashion E-Commerce Website \(React.js, Bootstrap, React Router, MongoDB Atlas\) | IPL Ticket) Tj ET
+BT /F1 8.4 Tf 0.250 0.300 0.380 rg 1 0 0 1 38.00 311.69 Tm (Booking System \(React.js, Bootstrap, React Router\)) Tj ET
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 298.09 Tm (SKILLS) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 293.59 m 557.28 293.59 l S
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 284.59 Tm (Programming: Python, SQL  |  BI tools: Power BI, Tableau, Excel  |  Database and tools: MySQL, Git, GitHub, VS Code) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 273.79 Tm (Data analysis: Pandas, NumPy, Matplotlib, Seaborn, EDA, data preprocessing) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 262.99 Tm (AI/ML: Machine learning, deep learning, Scikit-learn, TensorFlow, Keras, OpenCV, classification, model training and) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 252.19 Tm (evaluation) Tj ET
+BT /F1 8.5 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 241.39 Tm (Soft skills: Problem solving, communication, team collaboration, quick learner) Tj ET
+BT /F2 9.6 Tf 0.050 0.580 0.530 rg 1 0 0 1 38.00 227.59 Tm (CERTIFICATIONS \(12\)) Tj ET
+0.820 0.860 0.900 RG 0.65 w 38.00 223.09 m 557.28 223.09 l S
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 214.09 Tm (Business Analytics with Excel \(Microsoft\)  |  Power BI for Beginners \(Microsoft\)  |  Introduction to Generative AI \(Google) Tj ET
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 203.49 Tm (Cloud\)) Tj ET
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 192.89 Tm (Machine Learning Using Python \(Simplilearn\)  |  Python Libraries for Data Science \(Simplilearn\)  |  Introduction to SQL) Tj ET
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 182.29 Tm (\(Simplilearn\)) Tj ET
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 171.69 Tm (Introduction to Python \(Infosys\)  |  Python for Beginners \(Kaashiv Infotech\)  |  Data Analytics Webinar \(Brand Monk Academy\)) Tj ET
+BT /F1 8.3 Tf 0.200 0.250 0.330 rg 1 0 0 1 38.00 161.09 Tm (Full Stack Developer \(HDFD\) \(CSC Institute\)  |  English for Competitive Exams \(NPTEL\)  |  E-Business \(NPTEL\)) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000402 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8515
+%%EOF
