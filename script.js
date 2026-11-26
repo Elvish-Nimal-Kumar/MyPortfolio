@@ -4,7 +4,7 @@
   const mobileMenuBtn = document.getElementById("mobile-menu-btn");
   const navLinks = document.getElementById("nav-links");
   const toast = document.getElementById("toast");
-
+  
   function showToast(message) {
     if (!toast) return;
     toast.textContent = message;
