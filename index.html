@@ -11,7 +11,7 @@
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b0f17'/%3E%3Crect x='2' y='2' width='60' height='60' rx='12' fill='none' stroke='%2314b8a6' stroke-width='3'/%3E%3Ctext x='32' y='41' text-anchor='middle' font-family='system-ui,sans-serif' font-weight='700' font-size='26' fill='%232dd4bf'%3EENK%3C/text%3E%3C/svg%3E">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -72,14 +72,14 @@
           </div>
 
           <h1 id="hero-title" class="hero-title">
-            Hi, I'm <span class="accent-text">Elvish Nimal Kumar A</span>
+            <span class="accent-text">Elvish Nimal Kumar A</span>
           </h1>
 
           <p class="hero-roles">
             <span>Data Analyst</span>
-            <span class="sep" aria-hidden="true">·</span>
+            <span class="sep" aria-hidden="true">|</span>
             <span>Data Science</span>
-            <span class="sep" aria-hidden="true">·</span>
+            <span class="sep" aria-hidden="true">|</span>
             <span>AI/ML Engineer</span>
           </p>
 
@@ -121,68 +121,14 @@
           </div>
         </div>
 
-        <!-- Analytical Visual Card -->
-        <aside class="hero-panel reveal" aria-label="Analytical profile snapshot">
-          <div class="panel-header">
-            <div class="panel-dots" aria-hidden="true">
-              <span></span><span></span><span></span>
-            </div>
-            <span class="panel-title">analytical_profile.py</span>
-            <span class="panel-badge">B.Tech CSE · 2026</span>
-          </div>
-
-          <div class="panel-body">
-            <div class="panel-chart-box">
-              <div class="chart-caption">
-                <span>Spatial &amp; ML Pipeline</span>
-                <span class="mono-tag">9,197 records</span>
-              </div>
-              <svg class="sparkline-svg" viewBox="0 0 360 110" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Analytical data pipeline visualization">
-                <defs>
-                  <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
-                    <stop offset="0%" stop-color="#14b8a6" stop-opacity="0.35"/>
-                    <stop offset="100%" stop-color="#14b8a6" stop-opacity="0.0"/>
-                  </linearGradient>
-                </defs>
-                <line x1="0" y1="25" x2="360" y2="25" stroke="currentColor" stroke-opacity="0.08" stroke-dasharray="4 4"/>
-                <line x1="0" y1="55" x2="360" y2="55" stroke="currentColor" stroke-opacity="0.08" stroke-dasharray="4 4"/>
-                <line x1="0" y1="85" x2="360" y2="85" stroke="currentColor" stroke-opacity="0.08" stroke-dasharray="4 4"/>
-                <path d="M10 88 C45 80, 70 62, 105 68 C140 74, 165 40, 200 44 C235 48, 260 22, 295 28 C320 32, 338 16, 350 14 L350 105 L10 105 Z" fill="url(#areaGrad)"/>
-                <path d="M10 88 C45 80, 70 62, 105 68 C140 74, 165 40, 200 44 C235 48, 260 22, 295 28 C320 32, 338 16, 350 14" stroke="#2dd4bf" stroke-width="2.5" stroke-linecap="round"/>
-                <circle cx="105" cy="68" r="4" fill="#0b0f17" stroke="#2dd4bf" stroke-width="2"/>
-                <circle cx="200" cy="44" r="4" fill="#0b0f17" stroke="#2dd4bf" stroke-width="2"/>
-                <circle cx="295" cy="28" r="4" fill="#0b0f17" stroke="#f59e0b" stroke-width="2"/>
-                <circle cx="350" cy="14" r="5" fill="#2dd4bf"/>
-              </svg>
-            </div>
-
-            <div class="panel-metrics">
-              <div class="mini-metric">
-                <span class="mini-metric-val">4</span>
-                <span class="mini-metric-label">Internships</span>
-              </div>
-              <div class="mini-metric">
-                <span class="mini-metric-val">12</span>
-                <span class="mini-metric-label">Certifications</span>
-              </div>
-              <div class="mini-metric">
-                <span class="mini-metric-val">7.23</span>
-                <span class="mini-metric-label">B.Tech CGPA</span>
-              </div>
-            </div>
-
-            <div class="panel-stack">
-              <span class="panel-stack-label">Core Toolkit</span>
-              <div class="chip-row">
-                <span class="chip">Python</span>
-                <span class="chip">SQL</span>
-                <span class="chip">Power BI</span>
-                <span class="chip">Scikit-learn</span>
-                <span class="chip">TensorFlow</span>
-                <span class="chip">OpenCV</span>
-              </div>
-            </div>
-          </div>
+        <!-- Profile Portrait -->
+        <aside class="hero-panel reveal" aria-label="Portrait of Elvish Nimal Kumar A">
+          <img
+            src="assets/profile.jpg"
+            alt="Portrait of Elvish Nimal Kumar A"
+            class="portrait-img"
+            loading="eager"
+          >
         </aside>
       </div>
     </section>
@@ -191,8 +137,7 @@
     <section class="section" id="about" aria-labelledby="about-heading">
       <div class="container">
         <div class="section-header reveal">
-          <span class="section-eyebrow">01 / About Me</span>
-          <h2 id="about-heading" class="section-title">Turning data into decisions</h2>
+          <h2 id="about-heading" class="section-title"><span class="section-num">01 /</span> About Me</h2>
         </div>
 
         <div class="about-grid">
@@ -220,11 +165,6 @@
               <span class="stat-sub">Microsoft, Google Cloud, NPTEL &amp; more</span>
             </div>
             <div class="stat-card card reveal">
-              <span class="stat-number" data-count="9197">9,197</span>
-              <span class="stat-label">Bank Branch Records Analysed</span>
-              <span class="stat-sub">Spatial analytics &amp; ML optimization</span>
-            </div>
-            <div class="stat-card card reveal">
               <span class="stat-number" data-count="1">1</span>
               <span class="stat-label">International Conference Presentation</span>
               <span class="stat-sub">2026 Engineering Conference</span>
@@ -238,9 +178,7 @@
     <section class="section section-alt" id="what-i-do" aria-labelledby="what-i-do-heading">
       <div class="container">
         <div class="section-header reveal">
-          <span class="section-eyebrow">02 / What I Do</span>
-          <h2 id="what-i-do-heading" class="section-title">Core focus areas</h2>
-          <p class="section-subtitle">End-to-end analytical capabilities from raw data cleaning to interactive dashboards and deployed ML models.</p>
+          <h2 id="what-i-do-heading" class="section-title"><span class="section-num">02 /</span> What I Do</h2>
         </div>
 
         <div class="focus-grid">
@@ -315,8 +253,7 @@
     <section class="section" id="skills" aria-labelledby="skills-heading">
       <div class="container">
         <div class="section-header reveal">
-          <span class="section-eyebrow">03 / Skills</span>
-          <h2 id="skills-heading" class="section-title">Technical &amp; professional toolkit</h2>
+          <h2 id="skills-heading" class="section-title"><span class="section-num">03 /</span> Skills</h2>
         </div>
 
         <div class="skills-grid">
@@ -390,8 +327,7 @@
     <section class="section section-alt" id="experience" aria-labelledby="experience-heading">
       <div class="container">
         <div class="section-header reveal">
-          <span class="section-eyebrow">04 / Experience &amp; Education</span>
-          <h2 id="experience-heading" class="section-title">Internships &amp; academic foundation</h2>
+          <h2 id="experience-heading" class="section-title"><span class="section-num">04 /</span> Experience &amp; Education</h2>
         </div>
 
         <div class="exp-edu-layout">
@@ -483,8 +419,7 @@
       <div class="container">
         <div class="section-header-row reveal">
           <div class="section-header">
-            <span class="section-eyebrow">05 / Featured Projects</span>
-            <h2 id="projects-heading" class="section-title">Selected analytics &amp; AI/ML work</h2>
+            <h2 id="projects-heading" class="section-title"><span class="section-num">05 /</span> Featured Projects</h2>
           </div>
 
           <div class="filter-bar" role="tablist" aria-label="Filter projects by domain">
@@ -618,15 +553,6 @@
                 <span class="chip">MongoDB Atlas</span>
               </div>
             </article>
-
-            <article class="web-project-card card">
-              <h4 class="web-project-title">IPL Ticket Booking System</h4>
-              <div class="chip-row">
-                <span class="chip">React.js</span>
-                <span class="chip">Bootstrap</span>
-                <span class="chip">React Router</span>
-              </div>
-            </article>
           </div>
         </div>
       </div>
@@ -637,8 +563,7 @@
       <div class="container">
         <div class="section-header-row reveal">
           <div class="section-header">
-            <span class="section-eyebrow">06 / Certifications</span>
-            <h2 id="certifications-heading" class="section-title">12 Verified Credentials</h2>
+            <h2 id="certifications-heading" class="section-title"><span class="section-num">06 /</span> Certifications</h2>
           </div>
 
           <div class="cert-controls">
@@ -713,10 +638,9 @@
     <section class="section" id="contact" aria-labelledby="contact-heading">
       <div class="container">
         <div class="section-header reveal">
-          <span class="section-eyebrow">07 / Contact</span>
-          <h2 id="contact-heading" class="section-title">Let's work together</h2>
+          <h2 id="contact-heading" class="section-title"><span class="section-num">07 /</span> Contact</h2>
           <p class="section-subtitle">
-            I'm open to entry-level Data Analyst, Data Science and AI/ML Engineer roles. Send me a message about an opportunity or a project.
+            Let's work together. I'm open to entry-level Data Analyst, Data Science and AI/ML Engineer roles. Send me a message about an opportunity or a project.
           </p>
         </div>
 
